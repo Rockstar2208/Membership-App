@@ -1,0 +1,44 @@
+[
+  {
+    "id": "starter",
+    "name": "Starter",
+    "features": [
+      {
+        "id": "browse_catalogue",
+        "name": "Browse Catalogue"
+      },
+      {
+        "id": "starter_guides",
+        "name": "Starter Guides"
+      }
+    ]
+  },
+  {
+    "id": "plus",
+    "name": "Plus",
+    "features": [
+      {
+        "id": "browse_catalogue",
+        "name": "Browse Catalogue"
+      },
+      {
+        "id": "member_offers",
+        "name": "Member Offers"
+      }
+    ]
+  },
+  {
+    "id": "premium",
+    "name": "Premium",
+    "features": [
+      {
+        "id": "browse_catalogue",
+        "name": "Browse Catalogue"
+      },
+      {
+        "id": "priority_support",
+        "name": "Priority Support"
+      }
+    ]
+  }
+]
